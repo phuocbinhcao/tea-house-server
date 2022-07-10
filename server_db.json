@@ -137,16 +137,15 @@
       "id": 1,
       "roomName" : "A1",
       "slot" : "1 giường đôi",
-      "service" : ["VIP"],
+      "service" : "VIP",
       "price":  990000
     },
     {
       "id": 2,
       "roomName" : "B1",
       "slot" : "2 giường đơn",
-      "service" : ["NORMAL"],
+      "service" : "NORMAL",
       "price":  390000
     }
   ]
 }
-// IMG	NAME	SLOT	CUSTOM SERVICE	PRICE/ NIGHT
