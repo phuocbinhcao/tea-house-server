@@ -149,5 +149,19 @@
       "service" : "NORMAL",
       "price":  390000
     }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name":"NORMAL",
+      "des" : ["Chỗ để xe oto", "Bể bơi ngoài trời"],
+      "note": ""
+    },
+    {
+      "id": 2,
+      "name":"VIP",
+      "des" : ["Buffet"],
+      "note": ""
+    }
   ]
 }
