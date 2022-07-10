@@ -160,8 +160,32 @@
     {
       "id": 2,
       "name":"VIP",
-      "des" : ["Buffet"],
+      "des" : ["Bao gồm các dịch vụ ở mục NORMAL","Buffet"],
       "note": ""
     }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "roomList":["A1","B1"],
+      "ngaybatdau" : "",
+      "ngaykethuc" : "",
+      "songaythue" : "",
+      "totalValue" : 1231231,
+      "checkOutBy"  : "Momo",
+      "status"  : "Chờ xử lý",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "roomList":["A1"],
+      "ngaybatdau" : "",
+      "ngaykethuc" : "",
+      "songaythue" : "",
+      "totalValue" : 1231231,
+      "checkOutBy"  : "Trực tiếp",
+      "status"  : "Đã xử lý",
+      "note": ""
+    },
   ]
 }
