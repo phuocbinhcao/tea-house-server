@@ -150,6 +150,7 @@
       "price":  390000
     }
   ],
+
   "services": [
     {
       "id": 1,
@@ -164,6 +165,7 @@
       "note": ""
     }
   ],
+
   "orders": [
     {
       "id": 1,
@@ -171,7 +173,7 @@
       "ngaybatdau" : "",
       "ngaykethuc" : "",
       "songaythue" : "",
-      "totalValue" : 1231231,
+      "totalValue" : 12312312,
       "checkOutBy"  : "Momo",
       "status"  : "Chờ xử lý",
       "note": ""
